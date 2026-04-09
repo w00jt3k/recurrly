@@ -3,7 +3,7 @@ import { Text, View } from 'react-native'
 export default function Onboarding() {
   return (
     <View>
-      <Text>Onbaording</Text>
+      <Text>Onboarding</Text>
     </View>
   )
 }
